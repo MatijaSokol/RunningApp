@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RunningApp</string>
+    <string name="google_maps_key">AIzaSyAvJ28lGm_AyoXKPPDZWvBIZpUHQKVgWIo</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="cancel_run">Cancel the run?</string>
+    <string name="cancel_run_confirmation">Are you sure to cancel the current run and delete all its data?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="permission_required">You need to accept location permissions to use this app</string>
+    <string name="changes_saved">Changes saved</string>
+    <string name="fill_all_inputs">Please fill out all the fields</string>
+    <string name="lets_go">Let\'s go</string>
+    <string name="avg_speed">Avg speed over time</string>
+    <string name="run_saved">Run saved successfully</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+</resources>
